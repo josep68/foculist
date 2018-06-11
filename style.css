@@ -1,0 +1,74 @@
+.background-blue {
+  background: linear-gradient(30deg, #225393, #002351);
+  font-family: "Clear Sans",sans-serif;
+}
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 30px;
+  padding-top: 40px;
+}
+h2 {
+  color: #274daf;
+  font-size: 18px;
+  font-weight: 700;
+}
+h3 {
+  font-size: 24px;
+  font-weight: 300;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+p {
+  font-size: 18px;
+  font-weight: 300;
+  color: #7393c1;
+  margin-bottom: 30px;
+}
+.header-left {
+  padding-top: 150px;
+}
+.header-right {
+  padding-top: 80px;
+}
+.header p {
+  font-size: 24px;
+}
+.feature-left{
+  padding-top: 100px;
+}
+.feature-right {
+  padding-top: 140px;
+}
+.logo-iphone, .description, .logo-mac {
+  display: inline-block;
+  margin-right: 10px;
+  padding-bottom: 70px;
+}
+.planning img {
+  width: 100%;
+}
+.measure h1, .planning h1 {
+  color: black;
+}
+.measure p, .planning p {
+  color: #9ba6b7;
+}
+.measure .features {
+  display: inline-block;
+  padding-bottom: 35px;
+}
+ul {
+  color: #7393c1;
+  list-style-type: none;
+  padding-bottom: 30px;
+}
+ul a {
+  color: white;
+}
+li:first-child {
+  padding-bottom: 15px;
+  padding-top: 50px;
+}
